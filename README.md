@@ -1,5 +1,6 @@
 # GSAP Landing Page
-##Preview- https://gsap-page.vercel.app/
+## Preview- https://gsap-page.vercel.app/
+
 This repository showcases a beautifully designed landing page built using HTML, CSS, and JavaScript, with animations powered by GSAP (GreenSock Animation Platform).
 
 # Features
