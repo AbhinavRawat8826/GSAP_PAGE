@@ -346,7 +346,7 @@ function section5() {
       // markers:true
     },
     stagger: 0.2,
-    color: "rgb(248, 248, 156)",
+    color: "white",
   });
 }
 section5();
